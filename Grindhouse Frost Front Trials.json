@@ -1,6 +1,6 @@
 {
 	"Name": "Grindhouse - Frost Front Trials",
-	"Version": 1736373191,
+	"Version": 1739566449,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -26,6 +26,7 @@
 				"267",
 				"46",
 				"261",
+				"47",
 				"49",
 				"55",
 				"252",
@@ -261,7 +262,6 @@
 				18
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -338,7 +338,6 @@
 				39
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -410,7 +409,6 @@
 				54
 			],
 			"ItemWhitelist": [
-				0,
 				5,
 				8
 			],
@@ -496,7 +494,6 @@
 				79
 			],
 			"ItemWhitelist": [
-				0,
 				5,
 				8
 			],
@@ -581,7 +578,6 @@
 				98
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -660,7 +656,6 @@
 				118
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -736,7 +731,6 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -814,7 +808,6 @@
 				158
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -890,7 +883,6 @@
 				174
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -966,7 +958,6 @@
 				198
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -1045,7 +1036,6 @@
 				218
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -1123,7 +1113,6 @@
 				238
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -1213,7 +1202,6 @@
 				258
 			],
 			"ItemWhitelist": [
-				0,
 				5,
 				8
 			],
@@ -1296,7 +1284,6 @@
 				278
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -1374,7 +1361,6 @@
 				298
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -1450,7 +1436,6 @@
 				318
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -1522,7 +1507,6 @@
 				337
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -1596,7 +1580,6 @@
 				358
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -1674,7 +1657,6 @@
 				377
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -1744,7 +1726,6 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -1823,8 +1804,7 @@
 			],
 			"ItemWhitelist": [
 				8,
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1904,7 +1884,6 @@
 				438
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -1981,7 +1960,6 @@
 				457
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -2059,7 +2037,6 @@
 				478
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -2139,7 +2116,6 @@
 				498
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -2213,7 +2189,6 @@
 				518
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -2292,7 +2267,6 @@
 				538
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -2369,7 +2343,6 @@
 				558
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -2441,7 +2414,6 @@
 				578
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -2613,7 +2585,6 @@
 				637
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -2689,7 +2660,6 @@
 				657
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -2765,7 +2735,6 @@
 				671
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -2841,7 +2810,6 @@
 				698
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -2920,7 +2888,6 @@
 				718
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -2998,7 +2965,6 @@
 				738
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -3072,7 +3038,6 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
